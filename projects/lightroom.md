@@ -1,6 +1,2 @@
 # Lighroom Presets ft. Evy Ray
-![Preset](projects/assets/images/Evy.jpg)
-![Preset2](projects/assets/images/Lenin.jpg)
-![Preset3](projects/assets/Bridge.jpg)
-![Preset4](projects/Stamps.jpg)
-![Present5](projects/assets/images/EvyVRay.jpg)
+![Lenin](https://github.com/user-attachments/assets/ef4c0a32-2088-4957-9b34-5edf52a69b9a)
