@@ -1,16 +1,14 @@
 # Joeartl
 
 
-## Joel Bodón
----
-title: Joel Bodon's Techniques Portfolio
+## Joel Bodón Techniques Portfolio
 ---
 
 # Joel Bodon's Techniques Portfolio
 
-Welcome to my portfolio. Click on a project below to view my work:
+Welcome to my techniques portfolio portfolio. Click on a project below to view if my work is even there...
 
-## Projects
+### Projects
 
 - [Lightroom Edits](projects/lightroom.md)
 - [Photoshop Assignment](projects/photoshop.md)
