@@ -4,8 +4,6 @@
 ## Joel Bodón Techniques Portfolio
 ---
 
-# Joel Bodon's Techniques Portfolio
-
 Welcome to my techniques portfolio portfolio. Click on a project below to view if my work is even there...
 
 ### Projects
