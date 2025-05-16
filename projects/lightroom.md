@@ -1,5 +1,6 @@
-/assets/images/Evy.jpg
-/assets/images/Lenin.jpg
-/assets/images/Bridge.jpg
-/assets/images/Stamps.jpg
-/assets/images/EvyVRay.jpg
+# Lighroom Presets ft. Evy Ray
+!Preset(/assets/images/Evy.jpg)
+!Preset2(/assets/images/Lenin.jpg)
+!Preset3(/assets/images/Bridge.jpg)
+!Preset4(/assets/images/Stamps.jpg)
+!Present5(/assets/images/EvyVRay.jpg)
